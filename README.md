@@ -26,6 +26,15 @@ This game reuses a lot of common mechanics of metroidvanias.
 
 
 
+<details>
+<summary>## Encyclopedia</summary>
+All the entities in this game are documented in order to know them and learn to beat them.
+	<details>
+	<summary>## 1. corrupted_raven</summary>
+	lorem ipsum dolor sit amet
+	
+	</details>
+</details>
 
 
 
